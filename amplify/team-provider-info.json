@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsappf1750b65": {}
+      },
+      "api": {
+        "awsapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
